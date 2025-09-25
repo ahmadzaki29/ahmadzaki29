@@ -25,10 +25,10 @@
 
 ### Let's Connect!
 <p>
-  <a href="https://www.linkedin.com/in/madzak/" style="margin-right: 8px;">
-    <img alt="LinkedIn" width="22px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <a href="https://www.linkedin.com/in/madzak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/madzak_/">
-    <img alt="Instagram" width="22px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <a href="https://www.instagram.com/madzak_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
